@@ -2,7 +2,7 @@
 
 This is an application that is used for general school organization and homework planning. It contains an interface that adjusts based on what month it is and has text boxes for typing in events. It also contains functionality to save events so you don't lose your events on a restart.
 
-# Made in Python
+# Made in Java
 
 Contains five files:
   - Main file with initialization code
